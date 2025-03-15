@@ -1,0 +1,13 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+
+  "ConnectionStrings": {
+    "ProductConnectionString": "Server=.;Database=EPShope;TrustServerCertificate=True;Integrated Security = true;MultipleActiveResultSets=true"
+  }
+}

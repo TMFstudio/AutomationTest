@@ -1,0 +1,5 @@
+C:\Users\farbod\source\repos\WebAppUnderTest\BddWebSUT\obj\Debug\net6.0\BddWebSUT.csproj.AssemblyReference.cache
+C:\Users\farbod\source\repos\WebAppUnderTest\BddWebSUT\obj\Debug\net6.0\BddWebSUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farbod\source\repos\WebAppUnderTest\BddWebSUT\obj\Debug\net6.0\BddWebSUT.AssemblyInfoInputs.cache
+C:\Users\farbod\source\repos\WebAppUnderTest\BddWebSUT\obj\Debug\net6.0\BddWebSUT.AssemblyInfo.cs
+C:\Users\farbod\source\repos\WebAppUnderTest\BddWebSUT\obj\Debug\net6.0\BddWebSUT.csproj.CoreCompileInputs.cache
