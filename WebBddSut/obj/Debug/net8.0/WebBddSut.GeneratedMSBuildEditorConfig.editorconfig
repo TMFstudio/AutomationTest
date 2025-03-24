@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebBddSut
-build_property.ProjectDir = C:\Users\farbod\source\repos\WebAppUnderTest\WebBddSut\
+build_property.ProjectDir = C:\Users\farbod\Source\Repos\AutomationTest\WebBddSut\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

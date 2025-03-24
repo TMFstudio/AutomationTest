@@ -24,7 +24,7 @@ namespace BddWebSUT.ORMTest
             var newProduct = new Product()
             {
                 Datetime = DateTime.Now,
-                Discription = "bla bla bla 2",
+                Description = "bla bla bla 2",
                 Name = "Nokia1100",
                 Price = 1m,
                 ProductType = ProductType.Nokia

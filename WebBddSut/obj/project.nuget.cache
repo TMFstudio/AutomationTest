@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ALOETBfKLVY=",
+  "dgSpecHash": "pj0TXbLSY0s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\WebBddSut\\WebBddSut.csproj",
+  "projectFilePath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\WebBddSut\\WebBddSut.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\farbod\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
     "C:\\Users\\farbod\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",

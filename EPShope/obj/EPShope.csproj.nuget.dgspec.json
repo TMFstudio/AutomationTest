@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\EPShope\\EPShope.csproj": {}
+    "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\EPShope\\EPShope.csproj": {}
   },
   "projects": {
-    "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\EPShope\\EPShope.csproj": {
+    "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\EPShope\\EPShope.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\EPShope\\EPShope.csproj",
+        "projectUniqueName": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\EPShope\\EPShope.csproj",
         "projectName": "EPShope",
-        "projectPath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\EPShope\\EPShope.csproj",
+        "projectPath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\EPShope\\EPShope.csproj",
         "packagesPath": "C:\\Users\\farbod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\EPShope\\obj\\",
+        "outputPath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\EPShope\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\farbod\\AppData\\Roaming\\NuGet\\NuGet.Config",

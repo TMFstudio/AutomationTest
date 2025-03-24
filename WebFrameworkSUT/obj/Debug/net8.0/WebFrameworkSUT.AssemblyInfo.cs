@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebFrameworkSUT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1a8ab17dbd50d9ea186baf166fb6d3d70490687")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c34e783f9102ea25016a39909b22da5234ff8409")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebFrameworkSUT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebFrameworkSUT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

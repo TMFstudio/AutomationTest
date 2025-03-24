@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g0/74bUeQ8s=",
+  "dgSpecHash": "8/Uo8d/kfXI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\ProductDataApi\\ProductDataApi.csproj",
+  "projectFilePath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\ProductDataApi\\ProductDataApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\farbod\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\farbod\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

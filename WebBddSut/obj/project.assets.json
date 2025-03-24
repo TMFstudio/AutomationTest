@@ -14057,11 +14057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\WebBddSut\\WebBddSut.csproj",
+      "projectUniqueName": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\WebBddSut\\WebBddSut.csproj",
       "projectName": "WebBddSut",
-      "projectPath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\WebBddSut\\WebBddSut.csproj",
+      "projectPath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\WebBddSut\\WebBddSut.csproj",
       "packagesPath": "C:\\Users\\farbod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\WebBddSut\\obj\\",
+      "outputPath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\WebBddSut\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\farbod\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -14078,8 +14078,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\WebFrameworkSUT\\WebFrameworkSUT.csproj": {
-              "projectPath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\WebFrameworkSUT\\WebFrameworkSUT.csproj"
+            "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\WebFrameworkSUT\\WebFrameworkSUT.csproj": {
+              "projectPath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\WebFrameworkSUT\\WebFrameworkSUT.csproj"
             }
           }
         }

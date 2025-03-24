@@ -55,7 +55,7 @@ namespace BddWebSUT.IntegrationTest
                         Name = "New iphone Test",
                         ProductType = ProductType.Iphone,
                         Price = 300,
-                        Discription = "bla bla bla",
+                        Description = "bla bla bla",
                         Datetime = DateTime.Now,
                     });
                     dbContext.SaveChanges();

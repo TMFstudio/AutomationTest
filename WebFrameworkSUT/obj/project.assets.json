@@ -11371,11 +11371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\WebFrameworkSUT\\WebFrameworkSUT.csproj",
+      "projectUniqueName": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\WebFrameworkSUT\\WebFrameworkSUT.csproj",
       "projectName": "WebFrameworkSUT",
-      "projectPath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\WebFrameworkSUT\\WebFrameworkSUT.csproj",
+      "projectPath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\WebFrameworkSUT\\WebFrameworkSUT.csproj",
       "packagesPath": "C:\\Users\\farbod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\WebFrameworkSUT\\obj\\",
+      "outputPath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\WebFrameworkSUT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\farbod\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11392,11 +11392,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\EPShope\\EPShope.csproj": {
-              "projectPath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\EPShope\\EPShope.csproj"
+            "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\EPShope\\EPShope.csproj": {
+              "projectPath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\EPShope\\EPShope.csproj"
             },
-            "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\ProductDataApi\\ProductDataApi.csproj": {
-              "projectPath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\ProductDataApi\\ProductDataApi.csproj"
+            "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\ProductDataApi\\ProductDataApi.csproj": {
+              "projectPath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\ProductDataApi\\ProductDataApi.csproj"
             }
           }
         }

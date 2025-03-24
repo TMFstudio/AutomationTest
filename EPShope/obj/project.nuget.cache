@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v9Imk+rBmro=",
+  "dgSpecHash": "N/atyOHMy7o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\EPShope\\EPShope.csproj",
+  "projectFilePath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\EPShope\\EPShope.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\farbod\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\farbod\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

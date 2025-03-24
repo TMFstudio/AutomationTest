@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\ProductDataApi\\ProductDataApi.csproj": {}
+    "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\ProductDataApi\\ProductDataApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\ProductDataApi\\ProductDataApi.csproj": {
+    "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\ProductDataApi\\ProductDataApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\ProductDataApi\\ProductDataApi.csproj",
+        "projectUniqueName": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\ProductDataApi\\ProductDataApi.csproj",
         "projectName": "ProductDataApi",
-        "projectPath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\ProductDataApi\\ProductDataApi.csproj",
+        "projectPath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\ProductDataApi\\ProductDataApi.csproj",
         "packagesPath": "C:\\Users\\farbod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\farbod\\source\\repos\\WebAppUnderTest\\ProductDataApi\\obj\\",
+        "outputPath": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\ProductDataApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\farbod\\AppData\\Roaming\\NuGet\\NuGet.Config",
