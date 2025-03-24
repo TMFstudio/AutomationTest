@@ -15,7 +15,7 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- task:  Cache@2
+- task: UseDotNet@2
   displayName: 'Install .NET Core SDK'
   inputs:
     version: 8.x
@@ -23,13 +23,13 @@ steps:
     includePreviewVersions: true # Required for preview versions
 
 
-- task:  Cache@2
+- task: DotNetCoreCLI@2
   inputs:
     command: 'restore'
     feedsToUse: 'select'
     vstsFeed: 'my-vsts-feed' # A series of numbers and letters
 
-- task:  Cache@2
+- task: DotNetCoreCLI@2
   inputs:
     command: 'build'
     arguments: '--configuration $(buildConfiguration)'
