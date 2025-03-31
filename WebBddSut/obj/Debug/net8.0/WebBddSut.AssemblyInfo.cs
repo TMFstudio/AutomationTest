@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebBddSut")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c34e783f9102ea25016a39909b22da5234ff8409")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+627f33f67bdc6c82d2be62edc7de61774028c284")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebBddSut")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebBddSut")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

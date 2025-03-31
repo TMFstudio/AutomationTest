@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2394A269-BCFC-4839-BF79-817969D57842}|WebAppSUT\\WebAppSUT.csproj|c:\\users\\farbod\\source\\repos\\automationtest\\webappsut\\integrationtest\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2394A269-BCFC-4839-BF79-817969D57842}|WebAppSUT\\WebAppSUT.csproj|solutionrelative:webappsut\\integrationtest\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2394A269-BCFC-4839-BF79-817969D57842}|WebAppSUT\\WebAppSUT.csproj|c:\\users\\farbod\\source\\repos\\automationtest\\webappsut\\ormtest\\ormtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2394A269-BCFC-4839-BF79-817969D57842}|WebAppSUT\\WebAppSUT.csproj|solutionrelative:webappsut\\ormtest\\ormtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{198EA3B5-5816-4689-B6B3-9EC65B476DD4}|ProductDataApi\\ProductDataApi.csproj|c:\\users\\farbod\\source\\repos\\automationtest\\productdataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198EA3B5-5816-4689-B6B3-9EC65B476DD4}|ProductDataApi\\ProductDataApi.csproj|solutionrelative:productdataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,29 +49,20 @@
               "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrmTests.cs",
-              "DocumentMoniker": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\WebAppSUT\\ORMTest\\OrmTests.cs",
-              "RelativeDocumentMoniker": "WebAppSUT\\ORMTest\\OrmTests.cs",
-              "ToolTip": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\WebAppSUT\\ORMTest\\OrmTests.cs",
-              "RelativeToolTip": "WebAppSUT\\ORMTest\\OrmTests.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAD4vxoAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T19:35:40.224Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BaseTest.cs",
-              "DocumentMoniker": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\WebAppSUT\\IntegrationTest\\BaseTest.cs",
-              "RelativeDocumentMoniker": "WebAppSUT\\IntegrationTest\\BaseTest.cs",
-              "ToolTip": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\WebAppSUT\\IntegrationTest\\BaseTest.cs",
-              "RelativeToolTip": "WebAppSUT\\IntegrationTest\\BaseTest.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAMwDkAAAAjAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\ProductDataApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductDataApi\\Program.cs",
+              "ToolTip": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\ProductDataApi\\Program.cs",
+              "RelativeToolTip": "ProductDataApi\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T19:35:35.917Z",
+              "WhenOpened": "2025-03-31T15:07:17.183Z",
               "EditorCaption": ""
             }
           ]

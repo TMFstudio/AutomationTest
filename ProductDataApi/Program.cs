@@ -16,7 +16,7 @@ option.UseSqlServer(
 builder.Services.AddTransient<IProductRepository, ProductRepository>();
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline..
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
