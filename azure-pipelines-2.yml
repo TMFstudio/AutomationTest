@@ -31,5 +31,5 @@ steps:
 - task: IISWebAppDeploymentOnMachineGroup@0
   inputs:
     WebSiteName: 'EPShope'
-    Package: '$(System.DefaultWorkingDirectory)/AutomationTest/EPShope/*.zip'
+    Package: '$(System.DefaultWorkingDirectory)/_AutomationTest/EPShope'
     RemoveAdditionalFilesFlag: true
