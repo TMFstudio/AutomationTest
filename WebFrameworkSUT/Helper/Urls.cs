@@ -2,7 +2,7 @@
 {
     public static class Urls
     {
-        public readonly static string BaseUrl = "https://localhost:7207/";
+        public readonly static string BaseUrl = "http://localhost:82/";
         public readonly static string Saucedemo = "https://www.saucedemo.com/";
         public readonly static string GetAllProducts = "ProductApi/HomeModel";
         public readonly static string GetProductById = $"ProductApi/GetById";

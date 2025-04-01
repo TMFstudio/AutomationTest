@@ -2,6 +2,6 @@
 {
     public static class ApiConfig
     {
-        public static string BaseUrl { get; set; }= "https://localhost:7143";
+        public static string BaseUrl { get; set; }= "http://localhost:81";
     }
 }

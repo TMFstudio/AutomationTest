@@ -10,7 +10,11 @@ namespace BddWebSUT.ORMTest
     public class OrmTests : StartUp
     {
         private IProductRepository _productRepository;
-
+        [SetUp]
+        public void Setup()
+        {
+            _productRepository = GetService<IProductRepository>();
+        }
         [Test]
         public async Task GetAllProductShouldNotBeNull()
         {
@@ -31,13 +35,13 @@ namespace BddWebSUT.ORMTest
             };
             var allProduct = _productRepository.GetAllProducts();
 
-            allProduct.Count.ShouldBe(4);
+            allProduct.Count.ShouldBe(8);
 
             _productRepository.CreateProduct(newProduct);
 
             allProduct = _productRepository.GetAllProducts();
 
-            allProduct.Count.ShouldBe(5);
+            allProduct.Count.ShouldBe(9);
 
             var testProduct = allProduct.FirstOrDefault(x => x.Name == newProduct.Name);
             var newProductName = "nokia007";
@@ -53,7 +57,7 @@ namespace BddWebSUT.ORMTest
 
             allProduct = _productRepository.GetAllProducts();
 
-            allProduct.Count.ShouldBe(4);
+            allProduct.Count.ShouldBe(8);
 
         }
     }

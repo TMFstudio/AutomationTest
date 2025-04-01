@@ -16,7 +16,7 @@ namespace BddWebSUT.IntegrationTest
 
             string projectPath = AppDomain.CurrentDomain.BaseDirectory.Split(new string[] { @"bin\" }, StringSplitOptions.None)[0];
             IConfigurationRoot configuration = new ConfigurationBuilder()
-                  .SetBasePath(projectPath).AddJsonFile("appsetting.json").Build();
+                  .SetBasePath(projectPath).AddJsonFile("appsettings.json").Build();
             services.AddDbContext<ProductDbContext>(option =>
             option.UseSqlServer(configuration.GetConnectionString("ProductConnectionString")));
 

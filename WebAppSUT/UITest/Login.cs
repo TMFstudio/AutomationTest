@@ -35,7 +35,7 @@ namespace BddWebSUT.UITest
             Assert.IsTrue(cookie);
         }
 
-        [TestCase("za", "$15.99"), Order(0)]
+        [TestCase("za", "$15.99"), Order(2)]
         public void Select_Filter_Test(string value, string price)
         {
             _loginPage.SelectFilterByValue(value);

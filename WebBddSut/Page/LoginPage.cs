@@ -38,7 +38,7 @@ namespace WebBddSut.Page
         public void Login(string username, string password)
         {
             TxtUsername.SendKeys(username);
-            TxtUsername.SendKeys(password);
+            TxtPassword.SendKeys(password);
             Loginbtn.Click();
         }
         public void Logout()
