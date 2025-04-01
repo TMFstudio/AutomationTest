@@ -34,14 +34,12 @@ namespace BddWebSUT.ORMTest
                 ProductType = ProductType.Nokia
             };
             var allProduct = _productRepository.GetAllProducts();
-
-            allProduct.Count.ShouldBe(8);
-
+            var productCount = allProduct.Count;
             _productRepository.CreateProduct(newProduct);
 
             allProduct = _productRepository.GetAllProducts();
 
-            allProduct.Count.ShouldBe(9);
+            allProduct.Count.ShouldBe(productCount + 1);
 
             var testProduct = allProduct.FirstOrDefault(x => x.Name == newProduct.Name);
             var newProductName = "nokia007";
@@ -57,7 +55,7 @@ namespace BddWebSUT.ORMTest
 
             allProduct = _productRepository.GetAllProducts();
 
-            allProduct.Count.ShouldBe(8);
+            allProduct.Count.ShouldBe(productCount);
 
         }
     }

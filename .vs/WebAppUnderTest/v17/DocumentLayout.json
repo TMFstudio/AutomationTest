@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2394A269-BCFC-4839-BF79-817969D57842}|WebAppSUT\\WebAppSUT.csproj|c:\\users\\farbod\\source\\repos\\automationtest\\webappsut\\ormtest\\ormtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2394A269-BCFC-4839-BF79-817969D57842}|WebAppSUT\\WebAppSUT.csproj|solutionrelative:webappsut\\ormtest\\ormtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2394A269-BCFC-4839-BF79-817969D57842}|WebAppSUT\\WebAppSUT.csproj|c:\\users\\farbod\\source\\repos\\automationtest\\webappsut\\integrationtest\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2394A269-BCFC-4839-BF79-817969D57842}|WebAppSUT\\WebAppSUT.csproj|solutionrelative:webappsut\\integrationtest\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{198EA3B5-5816-4689-B6B3-9EC65B476DD4}|ProductDataApi\\ProductDataApi.csproj|c:\\users\\farbod\\source\\repos\\automationtest\\productdataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{198EA3B5-5816-4689-B6B3-9EC65B476DD4}|ProductDataApi\\ProductDataApi.csproj|solutionrelative:productdataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{198EA3B5-5816-4689-B6B3-9EC65B476DD4}|ProductDataApi\\ProductDataApi.csproj|c:\\users\\farbod\\source\\repos\\automationtest\\productdataapi\\migrations\\proudctdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{198EA3B5-5816-4689-B6B3-9EC65B476DD4}|ProductDataApi\\ProductDataApi.csproj|solutionrelative:productdataapi\\migrations\\proudctdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +22,11 @@
               "Title": "OrmTests.cs",
               "DocumentMoniker": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\WebAppSUT\\ORMTest\\OrmTests.cs",
               "RelativeDocumentMoniker": "WebAppSUT\\ORMTest\\OrmTests.cs",
-              "ToolTip": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\WebAppSUT\\ORMTest\\OrmTests.cs*",
-              "RelativeToolTip": "WebAppSUT\\ORMTest\\OrmTests.cs*",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAADsAAAAnAAAA",
+              "ToolTip": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\WebAppSUT\\ORMTest\\OrmTests.cs",
+              "RelativeToolTip": "WebAppSUT\\ORMTest\\OrmTests.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:22:53.268Z",
+              "WhenOpened": "2025-04-01T13:50:34.485Z",
               "EditorCaption": ""
             },
             {
@@ -72,45 +60,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\WebAppSUT\\IntegrationTest\\StartUp.cs",
-              "RelativeDocumentMoniker": "WebAppSUT\\IntegrationTest\\StartUp.cs",
-              "ToolTip": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\WebAppSUT\\IntegrationTest\\StartUp.cs",
-              "RelativeToolTip": "WebAppSUT\\IntegrationTest\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:22:21.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\ProductDataApi\\Program.cs",
-              "RelativeDocumentMoniker": "ProductDataApi\\Program.cs",
-              "ToolTip": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\ProductDataApi\\Program.cs",
-              "RelativeToolTip": "ProductDataApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:17:56.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProudctDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\ProductDataApi\\Migrations\\ProudctDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ProductDataApi\\Migrations\\ProudctDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\ProductDataApi\\Migrations\\ProudctDbContextModelSnapshot.cs",
-              "RelativeToolTip": "ProductDataApi\\Migrations\\ProudctDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAswBYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:17:37.755Z",
-              "EditorCaption": ""
             }
           ]
         }
