@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: new-agent
+  name: Default
 
 steps:
 - task: IISWebAppManagementOnMachineGroup@0
