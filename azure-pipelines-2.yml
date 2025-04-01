@@ -14,20 +14,8 @@ steps:
   inputs:
     command: 'publish'
     publishWebProjects: true
-
-- task: IISWebAppManagementOnMachineGroup@0
+- task: CopyFiles@2
+  displayName: 'Copy Files to: T:\EPApp'
   inputs:
-    IISDeploymentType: 'IISWebsite'
-    ActionIISWebsite: 'CreateOrUpdateWebsite'
-    WebsiteName: 'EPShope'
-    WebsitePhysicalPath: 'C:\Publish'
-    WebsitePhysicalPathAuth: 'WebsiteUserPassThrough'
-    AddBinding: true
-    Protocol: http
-    Port: 82
-    IPAddress: '*'
-- task: IISWebAppDeploymentOnMachineGroup@0
-  inputs:
-    WebSiteName: 'EPShope'
-    Package: '$(System.DefaultWorkingDirectory)\**\*.zip'
-    RemoveAdditionalFilesFlag: true
+    SourceFolder: '$(System.DefaultWorkingDirectory)/_AutomationTest (2)'
+    TargetFolder: 'T:\EPApp'
