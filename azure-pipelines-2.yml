@@ -22,5 +22,5 @@ steps:
 - task: CopyFiles@2
   displayName: 'Copy Files to: C:\WEBSUT'
   inputs:
-    SourceFolder: '$(System.DefaultWorkingDirectory)/_AutomationTest'
+    SourceFolder: '$(System.DefaultWorkingDirectory)'
     TargetFolder: 'C:\WEBSUT'
