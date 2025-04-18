@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\farbod\\source\\repos\\AutomationTest\\azure-pipelines-1.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:azure-pipelines-1.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +47,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "azure-pipelines-1.yml",
+              "DocumentMoniker": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\azure-pipelines-1.yml",
+              "RelativeDocumentMoniker": "azure-pipelines-1.yml",
+              "ToolTip": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\azure-pipelines-1.yml",
+              "RelativeToolTip": "azure-pipelines-1.yml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwCwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-18T19:41:52.639Z",
+              "EditorCaption": ""
             }
           ]
         }
