@@ -13,15 +13,14 @@ steps:
 - task: DotNetCoreCLI@2
   inputs:
     command: 'publish'
-    publishWebProjects: false
-    projects: '**/*.csproj'
+    publishWebProjects: true
     arguments: '--configuration $(buildConfiguration)'
+    zipAfterPublish: false
     workingDirectory: '$(System.DefaultWorkingDirectory)'
 
-
-
 - task: CopyFiles@2
-  displayName: 'Copy Files to: C:\WEBSUT'
+  displayName: 'Copy Files to: C:\WebApp-CD'
   inputs:
-    SourceFolder: '$(System.DefaultWorkingDirectory)'
-    TargetFolder: 'C:\WEBSUT'
+    SourceFolder: '$(System.DefaultWorkingDirectory)/_AutomationTest (1)'
+    TargetFolder: 'C:\WebApp-CD'
+
