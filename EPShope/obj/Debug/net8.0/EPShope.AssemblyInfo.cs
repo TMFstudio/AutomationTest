@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EPShope")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+966887d15f588a93a9d6400dc73b243559c89b30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f47e5372581d999146293e36a51e95ed980c3c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("EPShope")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EPShope")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
