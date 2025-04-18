@@ -12,15 +12,14 @@ pool:
 steps:
 - task: DotNetCoreCLI@2
   inputs:
-    command: 'publish'
-    publishWebProjects: true
-    arguments: '--configuration $(buildConfiguration)'
-    zipAfterPublish: false
-    workingDirectory: '$(System.DefaultWorkingDirectory)'
-
-- task: CopyFiles@2
-  displayName: 'Copy Files to: C:\WebApp-CD'
+    command: publish
+    publishWebProjects: True
+    arguments: '--configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)'
+    zipAfterPublish: True
+- task: PublishPipelineArtifact@1
   inputs:
-    SourceFolder: '$(System.DefaultWorkingDirectory)/_AutomationTest'
-    TargetFolder: 'C:\WebApp-CD'
+    targetPath: '$(Build.ArtifactStagingDirectory)'
+    artifact: 'myWebsite'
+    publishLocation: 'filepath'
+    fileSharePath: 'C:\WebApp-CD'
 
