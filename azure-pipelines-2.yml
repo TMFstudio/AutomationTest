@@ -18,6 +18,7 @@ steps:
     projects: '**/*.csproj'
     restoreArguments: '--configuration $(buildConfiguration)'
     feedsToUse: 'select'
+
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
