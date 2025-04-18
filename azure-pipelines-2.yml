@@ -14,7 +14,7 @@ steps:
   inputs:
     command: 'publish'
     publishWebProjects: false
-    projects: |
+    projects:
       |
       $(System.DefaultWorkingDirectory)/_AutomationTest/EPShope/EPShope.csproj
       $(System.DefaultWorkingDirectory)/_AutomationTest/ProductDataApi/ProductDataApi.csproj
