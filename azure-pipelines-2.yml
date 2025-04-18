@@ -22,6 +22,5 @@ steps:
   displayName: 'Copy Files to: C:\WebApp-CD'
   inputs:
     SourceFolder: '$(System.DefaultWorkingDirectory)/_AutomationTest'
-    Contents: '**'
     TargetFolder: 'C:\WebApp-CD'
 
