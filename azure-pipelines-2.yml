@@ -16,8 +16,8 @@ steps:
     publishWebProjects: false
     projects:
       |
-      $(System.DefaultWorkingDirectory)/_AutomationTest/EPShope/EPShope.csproj
-      $(System.DefaultWorkingDirectory)/_AutomationTest/ProductDataApi/ProductDataApi.csproj
+      **/EPShope.csproj
+      **/ProductDataApi.csproj
     arguments: '--configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)/publish'
     zipAfterPublish: false
 
