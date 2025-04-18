@@ -10,12 +10,13 @@ pool:
   name: Default
 
 steps:
-
 - task: DotNetCoreCLI@2
   inputs:
     command: 'publish'
-    publishWebProjects: true
+    publishWebProjects: false
+    projects: '**/*.csproj'
     arguments: '--configuration $(buildConfiguration)'
+    workingDirectory: '$(System.DefaultWorkingDirectory)'
 
 
 
