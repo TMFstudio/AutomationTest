@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\farbod\\source\\repos\\AutomationTest\\azure-pipelines-1.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:azure-pipelines-1.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\azure-pipelines.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:azure-pipelines.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,12 +51,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "azure-pipelines-1.yml",
-              "DocumentMoniker": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\azure-pipelines-1.yml",
-              "RelativeDocumentMoniker": "azure-pipelines-1.yml",
-              "ToolTip": "C:\\Users\\farbod\\source\\repos\\AutomationTest\\azure-pipelines-1.yml",
-              "RelativeToolTip": "azure-pipelines-1.yml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAmwCwAAAATAAAA",
+              "Title": "azure-pipelines.yml",
+              "DocumentMoniker": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\azure-pipelines.yml",
+              "RelativeDocumentMoniker": "azure-pipelines.yml",
+              "ToolTip": "C:\\Users\\farbod\\Source\\Repos\\AutomationTest\\azure-pipelines.yml",
+              "RelativeToolTip": "azure-pipelines.yml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-04-18T19:41:52.639Z",
               "EditorCaption": ""
