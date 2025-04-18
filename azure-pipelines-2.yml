@@ -15,7 +15,6 @@ steps:
     command: 'publish'
     publishWebProjects: false
     projects: |
-      |
       $(System.DefaultWorkingDirectory)/_AutomationTest/EPShope/*.csproj
       $(System.DefaultWorkingDirectory)/_AutomationTest/ProductDataApi/*.csproj
     arguments: '--configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)/publish'
