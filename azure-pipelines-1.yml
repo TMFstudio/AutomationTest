@@ -13,11 +13,10 @@ variables:
   buildConfiguration: 'Release'
 steps:
 - task: UseDotNet@2
-  displayName: 'Install .NET Core SDK'
   inputs:
-    version: 9.x
-    performMultiLevelLookup: true
-    includePreviewVersions: true # Required for preview versions
+    packageType: 'runtime'
+    version: '8.x'
+    includePreviewVersions: true
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
