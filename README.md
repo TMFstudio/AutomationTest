@@ -4,15 +4,15 @@ This repository serves as a base project for structuring automation tests. It is
 
 ## Features
 
-### Web API Projects
+### Web API ProjectsTest
 
-Test ESshop API: A web API project created for testing purposes.
+**ESshop API:** A web API project created for testing purposes.
 
-Product API: Provides fake data for testing automation workflows.
+**Product API:** Provides fake data for testing automation workflows.
 
 ### Test Folder The Test folder contains two main projects:
 
-UI Test:
+**UI Test:**
 
 Developed with SpecFlow.
 
@@ -20,7 +20,7 @@ Implements the Page Object Model (POM) design pattern.
 
 Utilizes Selenium for behavior-driven testing scenarios (WebBddSut).
 
-Integration Test:
+**Integration Test:**
 
 Uses InMemory libraries for testing.
 
@@ -36,7 +36,7 @@ Enables users to configure the Selenium environment easily.
 
 ## Getting Started
 
-Follow these steps to set up and start using the project:
+**Follow these steps to set up and start using the project:**
 
 Set Up the webframework.dll:
 
@@ -52,7 +52,7 @@ If you encounter errors while running the tests, ensure your browser driver is u
 
 Update your Selenium WebDriver via NuGet package manager if necessary.
 
-Run the APIs:
+**Run the APIs:**
 
 Start the Data API Project and Web API Project simultaneously before running the tests.
 
