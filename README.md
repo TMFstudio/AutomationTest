@@ -1,16 +1,16 @@
 Automation Test Project
 This repository serves as a base project for structuring automation tests. It is designed to simplify the process of creating and managing automated tests for web applications and APIs, while offering flexibility and scalability.
 
-Features
+**Features**
 Web API Projects
 Test ESshop API: A web API project created for testing purposes.
 
 Product API: Provides fake data for testing automation workflows.
 
-Test Folder
+**Test Folder**
 The Test folder contains two main projects:
 
-UI Test:
+**UI Test:**
 
 Developed with SpecFlow.
 
@@ -24,14 +24,14 @@ Uses InMemory libraries for testing.
 
 Incorporates Autofac for Dependency Injection (DI).
 
-Web Framework Project
+**Web Framework Project**
 A tool specifically designed for Selenium.
 
 Allows users to choose their preferred browser web driver.
 
 Enables users to configure the Selenium environment easily.
 
-Getting Started
+**Getting Started**
 Follow these steps to set up and start using the project:
 
 Set Up the webframework.dll:
@@ -48,7 +48,7 @@ If you encounter errors while running the tests, ensure your browser driver is u
 
 Update your Selenium WebDriver via NuGet package manager if necessary.
 
-Run the APIs:
+**Run the APIs:**
 
 Start the Data API Project and Web API Project simultaneously before running the tests.
 
